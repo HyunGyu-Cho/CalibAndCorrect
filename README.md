@@ -30,10 +30,17 @@
 - 기타  
   체스보드 영상 파일(`chessboard.mp4`) 및 테스트 이미지(`chessboard.jpg`) 등.
 
-## 실행예시(스크린샷)
-![프로그램 스크린샷1](chessboard_2.png)
-
-![프로그램 스크린샷2](undistorted_image.jpg)
+## 실행예시(스크린샷: 좌 원본, 우 왜곡사진)
+<table>
+  <tr>
+    <td align="center" style="padding-right: 50px;">
+      <img src="chessboard_2.png" alt="프로그램 스크린샷1" width="400">
+    </td>
+    <td align="center" style="padding-left: 50px;">
+      <img src="undistorted_image.jpg" alt="프로그램 스크린샷2" width="400">
+    </td>
+  </tr>
+</table>
 
 
 
